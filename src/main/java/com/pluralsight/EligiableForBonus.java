@@ -23,7 +23,7 @@ public class EligiableForBonus {
         if (bonus){
           totalSalary = salary*10;
         }
-        String result = "Your salary is "+ totalSalary
+        String result = "Your salary is "+ "totalSalary";
         return result;
     }
 
